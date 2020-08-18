@@ -8,6 +8,6 @@
 * Start Date - DateTime
 * End Date - DateTime
 * Latitude - Number
-* Longtitude - Number
+* Longitude - Number
 * Created At - DateTime
 * Updated At - DateTime
