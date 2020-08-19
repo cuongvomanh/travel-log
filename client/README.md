@@ -74,4 +74,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 npx create-react-app client
 cd client 
 npm start
+npm install react-hook-form
 ```
