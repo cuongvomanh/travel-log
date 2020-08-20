@@ -23,6 +23,13 @@ body {
   width: 400px;
   padding: 1rem;
 }
+.popup img {
+  height: 200px;
+  width: auto;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
 .entry-form label,
 .entry-form input,
 .entry-form textarea,

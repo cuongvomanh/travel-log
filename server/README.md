@@ -11,3 +11,8 @@
 * Longitude - Number
 * Created At - DateTime
 * Updated At - DateTime
+
+#
+```
+npm install express
+```

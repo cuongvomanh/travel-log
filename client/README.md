@@ -71,6 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### Custom
 
 ```
+npm install create-react-app
 npx create-react-app client
 cd client 
 npm start
